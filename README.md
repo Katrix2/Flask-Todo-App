@@ -22,7 +22,7 @@ app.py - główny plik aplikacji Flask
 templates/ - folder zawierający szablony HTML
 static/ - folder zawierający pliki CSS i JavaScript
 requirements.txt - plik z listą wymaganych bibliotek Python
-Link do repozytorium na GitHub: https://github.com/nazwa-uzytkownika/flask-todo-app
+Link do repozytorium na GitHub: https://github.com/Katrix2/flask-todo-app
 
 Opis kodu:
 
